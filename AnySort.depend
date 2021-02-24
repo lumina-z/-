@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1591758915 source:c:\c++培训\1\anysort\anysort.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"AnySort.h"
+
+1591758960 c:\c++培训\1\anysort\anysort.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1591758915 source:e:\曹记东\教学\数据结构\数据结构-曹记东\实验指导书\常用排序算法的实现\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"AnySort.h"
+
+1591758960 e:\曹记东\教学\数据结构\数据结构-曹记东\实验指导书\常用排序算法的实现\anysort.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
